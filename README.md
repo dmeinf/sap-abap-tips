@@ -1,4 +1,3 @@
-# sap-abap-tips
 # Hi ABAPers! 
 # Here you can find helpful tips & tricks for your proyects, feel free to use them!
 # Don't waste more time! Improve your skills and productivity by reducing development time!
